@@ -14,6 +14,6 @@ spec:
         spec:
         containers:
         - name: prova-devops
-            image: otaviopax/prova-devops
-            ports:
+          image: otaviopax/prova-devops
+          ports:
             - containerPort: 8000
