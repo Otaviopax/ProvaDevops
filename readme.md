@@ -5,4 +5,4 @@ Ele foi feito par armazenar os arquivos necessário para rodar uma imagen docker
 # Actions
 Este repositório contem duas github actions:
 - CICD: Esta action foi destinado a automatização da criação e push do docker
-- test_py: Esta action foi criada para testar o código da aplicação python presente no docker
+- test-py: Esta action foi criada para testar o código da aplicação python presente no docker
