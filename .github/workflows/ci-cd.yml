@@ -29,8 +29,8 @@ jobs:
           context: .
           push: true
           tags: |
-            otaviopax:latest
-            otaviopax:${{ github.sha }}
+            otaviopax/prova-devops:latest
+            otaviopax/prova-devops:${{ github.sha }}
 
       - name: Setup Kustomize
         uses: imranismail/setup-kustomize@v2
