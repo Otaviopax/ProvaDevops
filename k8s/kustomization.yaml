@@ -6,4 +6,4 @@ resources:
 images:
 - name: prova-devops
   newName: otaviopax/prova-devops
-  newTag: 559837379715772b4d07ecd7d28d17d388ee6eb1
+  newTag: baed349e7e21fdc38d03137c8d70c91371ca0076
