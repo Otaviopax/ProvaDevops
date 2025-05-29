@@ -35,7 +35,7 @@ jobs:
       - name: Setup Kustomize
         uses: imranismail/setup-kustomize@v2
 
-      - name: Update kustomize.yaml
+      - name: Update kustomization.yaml
         run: |
           cd k8s
           kustomize edit set image prova-devops=otaviopax/prova-devops:$GITHUB_SHA
